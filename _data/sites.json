@@ -390,11 +390,11 @@
     { "name": "myles braithwaite", "url": "https://myles.garden/defaults", "rss": "https://myles.garden/feed.xml", "date": "2024-09-27 15:47" },
     { "name": "Kirsty (2024)", "url": "https://nocto.com/posts/app-defaults-2024", "rss": "https://nocto.com/posts/rss.xml" , "date": "2024-11-07 10:00"},
     { "name": "Tobias Horvath", "url": "https://tobyx.com/2024/defaults", "rss": "https://tobyx.com/atom.xml" , "date": "2024-11-10 00:00"},
-    { "name": "Norangebit", "url": "https://norangeb.it/defaults", "rss": "https://norangeb.it/index.xml" , "date": "2024-11-21 00:00"},
+    { "name": "Norangebit (2024)", "url": "https://norangebit.me/posts/2024/defaults/", "rss": "https://norangebit.me/index.xml" , "date": "2024-11-21 00:00"},
     { "name": "Marco (2024)", "url": "https://mb.esamecar.net/2024/11/25/app-defaults-edition.html", "rss": "https://mb.esamecar.net/feed.xml" , "date": "2024-11-25 15:30"},
     { "name": "Robb Knight (2024)", "url": "https://rknight.me/blog/app-defaults-2024/", "rss": "https://rknight.me/feed.xml" , "date": "2024-11-25 20:26"},
     { "name": "Leon Mika (2024)", "url": "https://lmika.org/2024/11/26/its-a-little.html", "rss": "https://lmika.org/feed.xml" , "date": "2024-11-26 09:05"},
-    { "name": "Robert Pfotenhauer (2024)", "url": "https://frittiert.es/articles/2024/11/app-defaults-edition-2024", "rss": "https://frittiert.es/rss.xml" , "date": "2024-11-26 09:04"},   
+    { "name": "Robert Pfotenhauer (2024)", "url": "https://frittiert.es/articles/2024/11/app-defaults-edition-2024", "rss": "https://frittiert.es/rss.xml" , "date": "2024-11-26 09:04"},
     { "name": "Brandon", "url": "https://brandons-journal.com/default-apps-for-2024/", "rss": "https://brandons-journal.com/feed/", "date": "2024-12-08 12:07" },
     { "name": "Andy", "url": "https://thedent.net/posts/my-default-apps-2024-edition", "rss": "https://thedent.net/posts_feed", "date": "2024-12-08 12:08" },
     { "name": "Patrick Gentry", "url": "https://pdgentry.me/2024/12/06/app-defaults.html", "rss": "https://pdgentry.me/feed.xml", "date": "2024-12-08 12:09" },
@@ -524,5 +524,6 @@
     { "name": "Gobino", "url": "https://gobino.be/my-app-defaults-for-2026/", "rss": "https://gobino.be/feed/", "date": "2025-01-02 08:49" },
     { "name": "Matthew", "url": "https://matchamakes.net/blogposts/defaults.html", "date": "2026-02-19 16:30" },
     { "name": "Alexandre Mouriec", "url": "https://alexandremouriec.com/blog/2026-app-defaults/", "rss": "https://alexandremouriec.com/blog/feed.xml", "date": "2026-03-11 11:06" },
-    { "name": "Jarema (2026)", "url": "https://jarema.me/blog/2026/03/app-defaults/", "rss": "https://jarema.me/rss.xml", "date": "2026-03-15 13:00" }
+    { "name": "Jarema (2026)", "url": "https://jarema.me/blog/2026/03/app-defaults/", "rss": "https://jarema.me/rss.xml", "date": "2026-03-15 13:00" },
+    { "name": "Norangebit (2026)", "url": "https://norangebit.me/posts/2026/defaults/", "rss": "https://norangebit.me/index.xml" , "date": "2026-03-30 00:00"}
 ]
